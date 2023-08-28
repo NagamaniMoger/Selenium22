@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-28T16:39:41 IST" name="HorizontalSliderTestSuite" finished-at="2023-08-28T16:40:16 IST" duration-ms="35437">
+    <groups>
+    </groups>
+    <test started-at="2023-08-28T16:39:41 IST" name="HorizontalSliderTests" finished-at="2023-08-28T16:40:16 IST" duration-ms="35437">
+      <class name="com.herokuapp.theinternet.horizontalslidertests.HorizontalSliderTests">
+        <test-method is-config="true" signature="setUp(java.lang.String,org.testng.ITestContext)[pri:0, instance:com.herokuapp.theinternet.horizontalslidertests.HorizontalSliderTests@3349e9bb]" started-at="2023-08-28T16:39:41 IST" name="setUp" finished-at="2023-08-28T16:40:05 IST" duration-ms="24127" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@54e2fe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="sliderTest()[pri:0, instance:com.herokuapp.theinternet.horizontalslidertests.HorizontalSliderTests@3349e9bb]" started-at="2023-08-28T16:40:05 IST" name="sliderTest" finished-at="2023-08-28T16:40:16 IST" duration-ms="10690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sliderTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.herokuapp.theinternet.horizontalslidertests.HorizontalSliderTests@3349e9bb]" started-at="2023-08-28T16:40:16 IST" name="tearDown" finished-at="2023-08-28T16:40:16 IST" duration-ms="538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.herokuapp.theinternet.horizontalslidertests.HorizontalSliderTests -->
+    </test> <!-- HorizontalSliderTests -->
+  </suite> <!-- HorizontalSliderTestSuite -->
+</testng-results>
